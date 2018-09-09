@@ -18,5 +18,4 @@ Line-Like-app
 グループ機能
 
 
-devisetoken
-cNoWO976Qf0:APA91bEChPimHofP8QIVM8dbkSkWeiOPlw-xqd51ArFmkS0c7H8kwZkdbAXm_fRVfa_JzECJ_IVSmFNcL8FkZOO5yaw_50WCbJSv-vrrQiekYNKbC1kFz-2GbxAl2Fzg31CRuDFWXjGT
+
